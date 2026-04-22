@@ -18,7 +18,7 @@ I'm a final-year Computer Engineering student at MEF University with a strong in
 - 🔬 Currently working on **Critical Event Detection System** — a real-time disaster tweet analysis system (NLP pipeline + NER + geospatial visualization)
 - 📄 Co-authored research paper on **temporal dynamics in LLM QA** — [preprint on arXiv](https://arxiv.org/pdf/2603.16544)
 - 🏆 **Top 3** at Yandex & SUST Anatolian Hackathon 2026 with a transit delay prediction app
-- 🎓 Recipient of the **High Achievement Scholarship** (2025–2026)
+- 🎓 Recipient of the **High Achievement Scholarship**
 
 ---
 
