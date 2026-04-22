@@ -2,7 +2,7 @@
 
 # Hi, I'm Zehra 👋
 
-**Computer Engineering Student · NLP & ML Researcher · Istanbul 🇹🇷**
+**Computer Engineering Student · NLP & ML Researcher · Istanbul**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zehramert8/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:zehramrt98@gmail.com)
