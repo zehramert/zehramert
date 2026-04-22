@@ -13,7 +13,7 @@
 
 ## About Me
 
-I'm a final-year Computer Engineering student at MEF University (GPA: 3.31/4.0) with a strong interest in **NLP**, **machine learning**, and **real-world AI systems**. 
+I'm a final-year Computer Engineering student at MEF University with a strong interest in **NLP**, **machine learning**, and **real-world AI systems**. 
 
 - 🔬 Currently working on **Critical Event Detection System** — a real-time disaster tweet analysis system (NLP pipeline + NER + geospatial visualization)
 - 📄 Co-authored research paper on **temporal dynamics in LLM QA** — [preprint on arXiv](https://arxiv.org/pdf/2603.16544)
