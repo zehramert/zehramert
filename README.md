@@ -15,10 +15,7 @@
 
 I'm a final-year Computer Engineering student at MEF University with a strong interest in **NLP**, **machine learning**, and **real-world AI systems**. 
 
-- 🔬 Currently working on **Critical Event Detection System** — a real-time disaster tweet analysis system (NLP pipeline + NER + geospatial visualization)
-- 📄 Co-authored research paper on **temporal dynamics in LLM QA** — [preprint on arXiv](https://arxiv.org/pdf/2603.16544)
-- 🏆 **Top 3** at Yandex & SUST Anatolian Hackathon 2026 with a transit delay prediction app
-- 🎓 Recipient of the **High Achievement Scholarship**
+- 🔬 Currently working on **Critical Event Detection System**, a real-time disaster tweet analysis system (NLP pipeline + NER + geospatial visualization)
 
 ---
 
@@ -49,14 +46,14 @@ Real-time system that ingests disaster-related tweets and routes them for emerge
 ---
 
 ### 🚌 RotaZeka — Smart Transit Prediction
-> *Yandex & SUST Anatolian Hackathon 2026 · Top 3 / 35 teams*
+> *Yandex Anatolian Hackathon 2026 · Top 3 / 93 teams*
 
-Live web app predicting bus arrival delays and stop crowding to help commuters plan in real time. Led crowd prediction model development — improved performance by **75%** through feature engineering and ensembling (LightGBM, CatBoost, XGBoost, stacking, hierarchical modeling).
+Live web app predicting bus arrival delays and stop crowding to help commuters plan in real time. Led crowd prediction model development, improved performance by **75%** through feature engineering and ensembling (LightGBM, CatBoost, XGBoost, stacking, hierarchical modeling).
 
 ---
 
 ### ⏱ How Often Do Answers Change? Temporal QA Benchmarking
-> *University of Innsbruck · Supervised by Prof. Adam Jatowt · 2025*
+> *University of Innsbruck · 2025*
 
 Investigated how answer volatility over time degrades LLM performance on time-sensitive queries. Built and curated evaluation datasets measuring temporal sensitivity and ambiguity across diverse question types.
 
